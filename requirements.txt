@@ -1,7 +1,7 @@
 streamlit
 streamlit-webrtc
 ultralytics
-opencv-python
+opencv-python-headless
 numpy
 pandas
 matplotlib
