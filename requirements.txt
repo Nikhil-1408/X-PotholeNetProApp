@@ -7,3 +7,5 @@ pandas
 matplotlib
 av
 scikit-learn
+pymongo
+python-dotenv
